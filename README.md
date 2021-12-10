@@ -25,3 +25,7 @@ A nodejs-based program to convert shape based SVG to path by using SVGO library.
  </g>
 </svg>
 ```
+
+## TODO
+
+`svgo.config.js` config file not work when we tring to load its inside [`.js` file](https://github.com/BaseMax/convertSVGShapeToPath/blob/main/svg-converter.js#L7).
