@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="44">
+ <rect width="40" height="24" fill="#fff" stroke="#707070" stroke-linecap="round" stroke-width="4" data-name="Rectangle 1" rx="4" transform="rotate(-90 22 20)"/>
+ <g fill="#fff" stroke="#707070" stroke-linecap="round" stroke-width="4" data-name="Ellipse 1">
+  <path stroke="none" d="M14.5 31a2.5 2.5 0 1 0 0 5 2.5 2.5 0 1 0 0-5z"/>
+  <path fill="none" d="M14.5 29a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9z"/>
+ </g>
+</svg>
